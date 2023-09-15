@@ -411,17 +411,19 @@ td[class |=color]:hover{
 }
 
 .Tabla{
+  margin-left: 100px;
   float: left;
 }
 
 .Tabla2{
   margin-left: 250px;
+  clear: left;
   float: left;
 
 }
 
 .Tabla3{
-  margin: 900px;
+  float: left;
 }
 
 .contenedorTablas2{
